@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerService", "WorkerService\WorkerService.csproj", "{27898D87-DF4E-4A98-8F97-32B54AFD2D5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPWorker", "ASPWorker\ASPWorker.csproj", "{92343788-69C9-40C8-B434-640E680A7D46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27898D87-DF4E-4A98-8F97-32B54AFD2D5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27898D87-DF4E-4A98-8F97-32B54AFD2D5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27898D87-DF4E-4A98-8F97-32B54AFD2D5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27898D87-DF4E-4A98-8F97-32B54AFD2D5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92343788-69C9-40C8-B434-640E680A7D46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92343788-69C9-40C8-B434-640E680A7D46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92343788-69C9-40C8-B434-640E680A7D46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92343788-69C9-40C8-B434-640E680A7D46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62B4EA35-9255-4D4F-8963-2A058B2062E3}
+	EndGlobalSection
+EndGlobal
